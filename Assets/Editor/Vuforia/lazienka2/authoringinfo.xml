@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_info.xsd">
+    <TargetSet version="3.4">
+        <AreaTarget version="2.1" bbox="-2.2559 -1.6845 -2.9691 1.5641 1.1531 2.2837" targetId="f7b9a872951d42fa914fb17fe2b0f431" name="lazienka2" pathAuthoring="f7b9a872951d42fa914fb17fe2b0f431_authoring.glb" pathOcclusion="f7b9a872951d42fa914fb17fe2b0f431_occlusion.3dt" pathNavMesh="f7b9a872951d42fa914fb17fe2b0f431_navmesh.glb" />
+    </TargetSet>
+</QCARInfo>
